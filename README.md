@@ -13,10 +13,11 @@ python3 atomai_runner.py
 You should see a file called 'model.pth' created. 
 
 
-#### Step 3. Confirm that you can run the analysis script (on ACE)
+#### Step 3. Confirm that you can run the analysis script (on ACE). 
 
-#### Step 4. Confirm that you can run data transfers (Frontier <--> ACE)
+#### Step 4. Confirm that you can run data transfers (Frontier <--> ACE). 
+// TODO TYLER ADD THIS
 
 
 
-#### Step 4. Confirm that you can run the end-to
+#### Step 5. Confirm that you can run the end-to-end workflow using Zambeze.
